@@ -70,7 +70,7 @@ Consequently, perfect accuracy does not establish general ranking reliability or
 
 V1 did not adequately measure decision-boundary sensitivity, repeated-run variability, or the quality of the model's reasoning. The `IMPROVE` category also measured preservation of the expected winner rather than the magnitude of improvement in relative candidate strength.
 
-For the full analysis, see [`V1_validation_report.md`](V1_validation_report.md).
+For the full analysis, see [`V1_validation_report.md`](reports/V1_validation_report.md).
 
 ## Repository Structure
 
